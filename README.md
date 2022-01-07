@@ -2,6 +2,8 @@
 
 This repo contain an Arduino sketch implementing the moonboard LED system for an Espressif ESP32.
 
+Compatible with the Moonboard Bluetooth App
+
 ## Part list
 
 - 200 (4x50) WS2811 
