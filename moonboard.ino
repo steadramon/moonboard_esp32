@@ -9,7 +9,7 @@
 #endif
 
 
-#define LED_STRIPE_PIN        8
+#define LED_STRIPE_PIN        2
 #define LED_NUMBER          200
 #define LED_OFFSET           0
 
